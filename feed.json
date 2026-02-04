@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Andy Likes Pasta",
+    "description": "",
+    "home_page_url": "https://dropthedot.github.io/andylikespasta",
+    "feed_url": "https://dropthedot.github.io/andylikespasta/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andy"
+    },
+    "items": [
+        {
+            "id": "https://dropthedot.github.io/andylikespasta/2-february-2026-playa-guiones.html",
+            "url": "https://dropthedot.github.io/andylikespasta/2-february-2026-playa-guiones.html",
+            "title": "4, February 2026 - Playa Guiones",
+            "summary": "6am Surf: 3 feet at 19 seconds from 220° Wind: 3 knts&hellip;",
+            "content_html": "<p>6am Surf: <br>3 feet at 19 seconds from 220°<br>Wind: 3 knts offshore</p>\n<p><a href=\"https://andylikespasta.myportfolio.com/4-february-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the photos here!</a></p>\n<p>Purchase your full resolution photos here, without a watermark or logo! </p>",
+            "image": "https://dropthedot.github.io/andylikespasta/media/posts/5/surf-guiones-7.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-03T22:17:20-06:00",
+            "date_modified": "2026-02-03T22:35:57-06:00"
+        },
+        {
+            "id": "https://dropthedot.github.io/andylikespasta/1-february-2026-playa-avellanas.html",
+            "url": "https://dropthedot.github.io/andylikespasta/1-february-2026-playa-avellanas.html",
+            "title": "3, February 2026 - Playa Avellanas",
+            "summary": "7am Surf: 1.5 feet at 18 seconds from 180° Wind: 3 knts&hellip;",
+            "content_html": "<p>7am Surf: <br>1.5 feet at 18 seconds from 180°<br>Wind: 3 knts offshore</p>\n<p><a href=\"https://andylikespasta.myportfolio.com/3-february-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the photos here!</a></p>\n<p>Purchase your full resolution photos here, without a watermark or logo! </p>",
+            "image": "https://dropthedot.github.io/andylikespasta/media/posts/4/surf-guiones-24.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-03T22:16:54-06:00",
+            "date_modified": "2026-02-03T22:35:50-06:00"
+        },
+        {
+            "id": "https://dropthedot.github.io/andylikespasta/4-february-2026-playa-ostional.html",
+            "url": "https://dropthedot.github.io/andylikespasta/4-february-2026-playa-ostional.html",
+            "title": "2, February 2026 - Playa Ostional",
+            "summary": "7am Surf: 2 feet at 14 seconds from 210° Wind: 6 knts&hellip;",
+            "content_html": "<p>7am Surf: <br>2 feet at 14 seconds from 210°<br>Wind: 6 knts offshore</p>\n<p><a href=\"https://andylikespasta.myportfolio.com/2-february-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the photos here!</a></p>\n<p>Purchase your full resolution photos here, without a watermark or logo! </p>",
+            "image": "https://dropthedot.github.io/andylikespasta/media/posts/3/surf-guiones-18.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-03T22:16:21-06:00",
+            "date_modified": "2026-02-03T22:35:43-06:00"
+        },
+        {
+            "id": "https://dropthedot.github.io/andylikespasta/3-february-2026-playa-guiones.html",
+            "url": "https://dropthedot.github.io/andylikespasta/3-february-2026-playa-guiones.html",
+            "title": "1, February 2026 - Playa Guiones",
+            "summary": "6am Surf: 3.5 feet at 16 seconds from 220° Wind: 5 knts&hellip;",
+            "content_html": "<p>6am Surf: <br>3.5 feet at 16 seconds from 220°<br>Wind: 5 knts offshore</p>\n<p><a href=\"https://andylikespasta.myportfolio.com/1-february-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the photos here!</a></p>\n<p>Purchase your full resolution photos here, without a watermark or logo! </p>",
+            "image": "https://dropthedot.github.io/andylikespasta/media/posts/2/surf-guiones-31.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-03T22:09:21-06:00",
+            "date_modified": "2026-02-03T22:35:35-06:00"
+        }
+    ]
+}

@@ -1,2 +1,0 @@
-# andylikespasta
-Andy Likes Pasta
