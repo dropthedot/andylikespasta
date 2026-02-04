@@ -3,7 +3,7 @@
     <title>Andy Likes Pasta</title>
     <link href="https://dropthedot.github.io/andylikespasta/feed.xml" rel="self" />
     <link href="https://dropthedot.github.io/andylikespasta" />
-    <updated>2026-02-03T22:35:57-06:00</updated>
+    <updated>2026-02-04T13:32:56-06:00</updated>
     <author>
         <name>Andy</name>
     </author>
@@ -103,9 +103,11 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://dropthedot.github.io/andylikespasta/media/posts/2/surf-guiones-31.jpg" class="type:primaryImage" alt="" /></p>
-                <p>6am Surf: <br>3.5 feet at 16 seconds from 220°<br>Wind: 5 knts offshore</p>
-<p><a href="https://andylikespasta.myportfolio.com/1-february-2026" target="_blank" rel="noopener noreferrer">Check out the photos here!</a></p>
-<p>Purchase your full resolution photos here, without a watermark or logo! </p>
+                <p class="align-left">6am Surf: <br>3.5 feet at 16 seconds from 220°<br>Wind: 5 knts offshore</p>
+<form action="https://andylikespasta.myportfolio.com/1-february-2026">
+<p><button class="GFG" type="submit">Today's Photos</button></p>
+<p> </p>
+</form><form action="https://www.geeksforgeeks.org/community/"><button class="GFG" type="submit">Purchase Your Photos</button></form>
             ]]>
         </content>
     </entry>

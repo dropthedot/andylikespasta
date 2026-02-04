@@ -59,7 +59,7 @@
             "url": "https://dropthedot.github.io/andylikespasta/3-february-2026-playa-guiones.html",
             "title": "1, February 2026 - Playa Guiones",
             "summary": "6am Surf: 3.5 feet at 16 seconds from 220° Wind: 5 knts&hellip;",
-            "content_html": "<p>6am Surf: <br>3.5 feet at 16 seconds from 220°<br>Wind: 5 knts offshore</p>\n<p><a href=\"https://andylikespasta.myportfolio.com/1-february-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the photos here!</a></p>\n<p>Purchase your full resolution photos here, without a watermark or logo! </p>",
+            "content_html": "<p class=\"align-left\">6am Surf: <br>3.5 feet at 16 seconds from 220°<br>Wind: 5 knts offshore</p>\n<form action=\"https://andylikespasta.myportfolio.com/1-february-2026\">\n<p><button class=\"GFG\" type=\"submit\">Today's Photos</button></p>\n<p> </p>\n</form><form action=\"https://www.geeksforgeeks.org/community/\"><button class=\"GFG\" type=\"submit\">Purchase Your Photos</button></form>",
             "image": "https://dropthedot.github.io/andylikespasta/media/posts/2/surf-guiones-31.jpg",
             "author": {
                 "name": "Andy"
@@ -67,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2026-02-03T22:09:21-06:00",
-            "date_modified": "2026-02-03T22:35:35-06:00"
+            "date_modified": "2026-02-04T13:32:56-06:00"
         }
     ]
 }
